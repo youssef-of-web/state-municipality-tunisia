@@ -1,1189 +1,2257 @@
 [
   {
     "Name": "ARIANA",
+    "NameAr": "أريانة",
     "Value": "AR",
     "Delegations": [
       {
         "Name": "RAOUED",
-        "Value": "RAOUED"
+        "NameAr": "رواد",
+        "Value": "RAOUED",
+        "PostalCode": "2083",
+        "Latitude": 36.9113,
+        "Longitude": 10.1595
       },
       {
         "Name": "SIDI THABET",
-        "Value": "SIDI THABET"
+        "NameAr": "سيدي ثابت",
+        "Value": "SIDI THABET",
+        "PostalCode": "2020",
+        "Latitude": 36.9160,
+        "Longitude": 10.0350
       },
       {
         "Name": "ARIANA VILLE",
-        "Value": "ARIANA VILLE"
+        "NameAr": "أريانة المدينة",
+        "Value": "ARIANA VILLE",
+        "PostalCode": "2080",
+        "Latitude": 36.8667,
+        "Longitude": 10.1667
       },
       {
         "Name": "LA SOUKRA",
-        "Value": "LA SOUKRA"
+        "NameAr": "سكرة",
+        "Value": "LA SOUKRA",
+        "PostalCode": "2036",
+        "Latitude": 36.8831,
+        "Longitude": 10.2406
       },
       {
         "Name": "KALAAT LANDLOUS",
-        "Value": "KALAAT LANDLOUS"
+        "NameAr": "قلعة الأندلس",
+        "Value": "KALAAT LANDLOUS",
+        "PostalCode": "2061",
+        "Latitude": 37.0636,
+        "Longitude": 10.1303
       },
       {
         "Name": "ETTADHAMEN",
-        "Value": "ETTADHAMEN"
+        "NameAr": "التضامن",
+        "Value": "ETTADHAMEN",
+        "PostalCode": "2041",
+        "Latitude": 36.8386,
+        "Longitude": 10.1008
       },
       {
         "Name": "MNIHLA",
-        "Value": "MNIHLA"
+        "NameAr": "المنيهلة",
+        "Value": "MNIHLA",
+        "PostalCode": "2094",
+        "Latitude": 36.8633,
+        "Longitude": 10.0814
       }
     ]
   },
   {
     "Name": "BEJA",
+    "NameAr": "باجة",
     "Value": "BJ",
     "Delegations": [
       {
         "Name": "BEJA NORD",
-        "Value": "BEJA NORD"
+        "NameAr": "باجة الشمالية",
+        "Value": "BEJA NORD",
+        "PostalCode": "9000",
+        "Latitude": 36.7290,
+        "Longitude": 9.1830
       },
       {
         "Name": "NEFZA",
-        "Value": "NEFZA"
+        "NameAr": "نفزة",
+        "Value": "NEFZA",
+        "PostalCode": "9010",
+        "Latitude": 37.0631,
+        "Longitude": 8.8981
       },
       {
         "Name": "GOUBELLAT",
-        "Value": "GOUBELLAT"
+        "NameAr": "قبلاط",
+        "Value": "GOUBELLAT",
+        "PostalCode": "9080",
+        "Latitude": 36.5833,
+        "Longitude": 9.5000
       },
       {
         "Name": "MEJEZ EL BAB",
-        "Value": "MEJEZ EL BAB"
+        "NameAr": "مجاز الباب",
+        "Value": "MEJEZ EL BAB",
+        "PostalCode": "9070",
+        "Latitude": 36.6503,
+        "Longitude": 9.6108
       },
       {
         "Name": "AMDOUN",
-        "Value": "AMDOUN"
+        "NameAr": "عمدون",
+        "Value": "AMDOUN",
+        "PostalCode": "9040",
+        "Latitude": 36.8167,
+        "Longitude": 9.0333
       },
       {
         "Name": "TEBOURSOUK",
-        "Value": "TEBOURSOUK"
+        "NameAr": "تبرسق",
+        "Value": "TEBOURSOUK",
+        "PostalCode": "9050",
+        "Latitude": 36.4578,
+        "Longitude": 9.2475
       },
       {
         "Name": "TESTOUR",
-        "Value": "TESTOUR"
+        "NameAr": "تستور",
+        "Value": "TESTOUR",
+        "PostalCode": "9060",
+        "Latitude": 36.5533,
+        "Longitude": 9.4439
       },
       {
         "Name": "THIBAR",
-        "Value": "THIBAR"
+        "NameAr": "تيبار",
+        "Value": "THIBAR",
+        "PostalCode": "9052",
+        "Latitude": 36.6020,
+        "Longitude": 9.1080
       },
       {
         "Name": "BEJA SUD",
-        "Value": "BEJA SUD"
+        "NameAr": "باجة الجنوبية",
+        "Value": "BEJA SUD",
+        "PostalCode": "9000",
+        "Latitude": 36.7290,
+        "Longitude": 9.1830
       }
     ]
   },
   {
     "Name": "BEN AROUS",
+    "NameAr": "بن عروس",
     "Value": "BA",
     "Delegations": [
       {
         "Name": "EZZAHRA",
-        "Value": "EZZAHRA"
+        "NameAr": "الزهراء",
+        "Value": "EZZAHRA",
+        "PostalCode": "2034",
+        "Latitude": 36.7439,
+        "Longitude": 10.3058
       },
       {
         "Name": "MOHAMADIA",
-        "Value": "MOHAMADIA"
+        "NameAr": "المحمدية",
+        "Value": "MOHAMADIA",
+        "PostalCode": "1145",
+        "Latitude": 36.6860,
+        "Longitude": 10.1380
       },
       {
         "Name": "RADES",
-        "Value": "RADES"
+        "NameAr": "رادس",
+        "Value": "RADES",
+        "PostalCode": "2040",
+        "Latitude": 36.7736,
+        "Longitude": 10.2800
       },
       {
         "Name": "EL MOUROUJ",
-        "Value": "EL MOUROUJ"
+        "NameAr": "المروج",
+        "Value": "EL MOUROUJ",
+        "PostalCode": "2074",
+        "Latitude": 36.7261,
+        "Longitude": 10.2075
       },
       {
         "Name": "FOUCHANA",
-        "Value": "FOUCHANA"
+        "NameAr": "فوشانة",
+        "Value": "FOUCHANA",
+        "PostalCode": "2082",
+        "Latitude": 36.6994,
+        "Longitude": 10.1419
       },
       {
         "Name": "HAMMAM CHATT",
-        "Value": "HAMMAM CHATT"
+        "NameAr": "حمام الشط",
+        "Value": "HAMMAM CHATT",
+        "PostalCode": "2050",
+        "Latitude": 36.7000,
+        "Longitude": 10.3500
       },
       {
         "Name": "HAMMAM LIF",
-        "Value": "HAMMAM LIF"
+        "NameAr": "حمام الأنف",
+        "Value": "HAMMAM LIF",
+        "PostalCode": "2050",
+        "Latitude": 36.7333,
+        "Longitude": 10.3333
       },
       {
         "Name": "MEGRINE",
-        "Value": "MEGRINE"
+        "NameAr": "مقرين",
+        "Value": "MEGRINE",
+        "PostalCode": "2033",
+        "Latitude": 36.7817,
+        "Longitude": 10.2275
       },
       {
         "Name": "NOUVELLE MEDINA",
-        "Value": "NOUVELLE MEDINA"
+        "NameAr": "المدينة الجديدة",
+        "Value": "NOUVELLE MEDINA",
+        "PostalCode": "2063",
+        "Latitude": 36.7480,
+        "Longitude": 10.2210
       },
       {
         "Name": "MORNAG",
-        "Value": "MORNAG"
+        "NameAr": "مرناق",
+        "Value": "MORNAG",
+        "PostalCode": "2090",
+        "Latitude": 36.6500,
+        "Longitude": 10.2667
       },
       {
         "Name": "BOU MHEL EL BASSATINE",
-        "Value": "BOU MHEL EL BASSATINE"
+        "NameAr": "بومهل البساتين",
+        "Value": "BOU MHEL EL BASSATINE",
+        "PostalCode": "2097",
+        "Latitude": 36.7167,
+        "Longitude": 10.2833
       },
       {
         "Name": "BEN AROUS",
-        "Value": "BEN AROUS"
+        "NameAr": "بن عروس",
+        "Value": "BEN AROUS",
+        "PostalCode": "2013",
+        "Latitude": 36.7525,
+        "Longitude": 10.2233
       }
     ]
   },
   {
     "Name": "BIZERTE",
+    "NameAr": "بنزرت",
     "Value": "BZ",
     "Delegations": [
       {
         "Name": "MENZEL BOURGUIBA",
-        "Value": "MENZEL BOURGUIBA"
+        "NameAr": "منزل بورقيبة",
+        "Value": "MENZEL BOURGUIBA",
+        "PostalCode": "7050",
+        "Latitude": 37.1500,
+        "Longitude": 9.7833
       },
       {
         "Name": "UTIQUE",
-        "Value": "UTIQUE"
+        "NameAr": "أوتيك",
+        "Value": "UTIQUE",
+        "PostalCode": "7060",
+        "Latitude": 37.0500,
+        "Longitude": 10.0500
       },
       {
         "Name": "MENZEL JEMIL",
-        "Value": "MENZEL JEMIL"
+        "NameAr": "منزل جميل",
+        "Value": "MENZEL JEMIL",
+        "PostalCode": "7080",
+        "Latitude": 37.2333,
+        "Longitude": 9.9167
       },
       {
         "Name": "BIZERTE NORD",
-        "Value": "BIZERTE NORD"
+        "NameAr": "بنزرت الشمالية",
+        "Value": "BIZERTE NORD",
+        "PostalCode": "7000",
+        "Latitude": 37.2744,
+        "Longitude": 9.8739
       },
       {
         "Name": "BIZERTE SUD",
-        "Value": "BIZERTE SUD"
+        "NameAr": "بنزرت الجنوبية",
+        "Value": "BIZERTE SUD",
+        "PostalCode": "7000",
+        "Latitude": 37.2744,
+        "Longitude": 9.8739
       },
       {
         "Name": "EL ALIA",
-        "Value": "EL ALIA"
+        "NameAr": "العالية",
+        "Value": "EL ALIA",
+        "PostalCode": "7016",
+        "Latitude": 37.1667,
+        "Longitude": 10.0333
       },
       {
         "Name": "SEJNANE",
-        "Value": "SEJNANE"
+        "NameAr": "سجنان",
+        "Value": "SEJNANE",
+        "PostalCode": "7090",
+        "Latitude": 37.1550,
+        "Longitude": 9.2381
       },
       {
         "Name": "GHAR EL MELH",
-        "Value": "GHAR EL MELH"
+        "NameAr": "غار الملح",
+        "Value": "GHAR EL MELH",
+        "PostalCode": "7033",
+        "Latitude": 37.1667,
+        "Longitude": 10.1833
       },
       {
         "Name": "GHEZALA",
-        "Value": "GHEZALA"
+        "NameAr": "غزالة",
+        "Value": "GHEZALA",
+        "PostalCode": "7040",
+        "Latitude": 37.1000,
+        "Longitude": 9.1000
       },
       {
         "Name": "JARZOUNA",
-        "Value": "JARZOUNA"
+        "NameAr": "جرزونة",
+        "Value": "JARZOUNA",
+        "PostalCode": "7021",
+        "Latitude": 37.2608,
+        "Longitude": 9.8764
       },
       {
         "Name": "JOUMINE",
-        "Value": "JOUMINE"
+        "NameAr": "جومين",
+        "Value": "JOUMINE",
+        "PostalCode": "7042",
+        "Latitude": 36.9333,
+        "Longitude": 9.3167
       },
       {
         "Name": "MATEUR",
-        "Value": "MATEUR"
+        "NameAr": "ماطر",
+        "Value": "MATEUR",
+        "PostalCode": "7030",
+        "Latitude": 37.0406,
+        "Longitude": 9.6650
       },
       {
         "Name": "RAS JEBEL",
-        "Value": "RAS JEBEL"
+        "NameAr": "رأس الجبل",
+        "Value": "RAS JEBEL",
+        "PostalCode": "7070",
+        "Latitude": 37.2153,
+        "Longitude": 10.1200
       },
       {
         "Name": "TINJA",
-        "Value": "TINJA"
+        "NameAr": "تينجة",
+        "Value": "TINJA",
+        "PostalCode": "7010",
+        "Latitude": 37.1592,
+        "Longitude": 9.7589
       }
     ]
   },
   {
     "Name": "GABES",
+    "NameAr": "قابس",
     "Value": "GB",
     "Delegations": [
       {
         "Name": "EL METOUIA",
-        "Value": "EL METOUIA"
+        "NameAr": "المطوية",
+        "Value": "EL METOUIA",
+        "PostalCode": "6010",
+        "Latitude": 33.9667,
+        "Longitude": 10.0000
       },
       {
         "Name": "GABES MEDINA",
-        "Value": "GABES MEDINA"
+        "NameAr": "قابس المدينة",
+        "Value": "GABES MEDINA",
+        "PostalCode": "6000",
+        "Latitude": 33.8814,
+        "Longitude": 10.0982
       },
       {
         "Name": "GABES OUEST",
-        "Value": "GABES OUEST"
+        "NameAr": "قابس الغربية",
+        "Value": "GABES OUEST",
+        "PostalCode": "6000",
+        "Latitude": 33.8814,
+        "Longitude": 10.0982
       },
       {
         "Name": "GABES SUD",
-        "Value": "GABES SUD"
+        "NameAr": "قابس الجنوبية",
+        "Value": "GABES SUD",
+        "PostalCode": "6000",
+        "Latitude": 33.8814,
+        "Longitude": 10.0982
       },
       {
         "Name": "EL HAMMA",
-        "Value": "EL HAMMA"
+        "NameAr": "الحامة",
+        "Value": "EL HAMMA",
+        "PostalCode": "6020",
+        "Latitude": 33.8883,
+        "Longitude": 9.7936
       },
       {
         "Name": "NOUVELLE MATMATA",
-        "Value": "NOUVELLE MATMATA"
+        "NameAr": "مطماطة الجديدة",
+        "Value": "NOUVELLE MATMATA",
+        "PostalCode": "6070",
+        "Latitude": 33.5417,
+        "Longitude": 9.9667
       },
       {
         "Name": "MARETH",
-        "Value": "MARETH"
+        "NameAr": "مارث",
+        "Value": "MARETH",
+        "PostalCode": "6030",
+        "Latitude": 33.6333,
+        "Longitude": 10.3000
       },
       {
         "Name": "GHANNOUCHE",
-        "Value": "GHANNOUCHE"
+        "NameAr": "غنوش",
+        "Value": "GHANNOUCHE",
+        "PostalCode": "6021",
+        "Latitude": 33.9333,
+        "Longitude": 10.0667
       },
       {
         "Name": "MATMATA",
-        "Value": "MATMATA"
+        "NameAr": "مطماطة",
+        "Value": "MATMATA",
+        "PostalCode": "6070",
+        "Latitude": 33.5428,
+        "Longitude": 9.9714
       },
       {
         "Name": "MENZEL HABIB",
-        "Value": "MENZEL HABIB"
+        "NameAr": "منزل الحبيب",
+        "Value": "MENZEL HABIB",
+        "PostalCode": "6052",
+        "Latitude": 33.8167,
+        "Longitude": 9.5500
       }
     ]
   },
   {
     "Name": "GAFSA",
+    "NameAr": "قفصة",
     "Value": "GF",
     "Delegations": [
       {
         "Name": "BELKHIR",
-        "Value": "BELKHIR"
+        "NameAr": "بلخير",
+        "Value": "BELKHIR",
+        "PostalCode": "2113",
+        "Latitude": 34.3167,
+        "Longitude": 9.0000
       },
       {
         "Name": "EL GUETTAR",
-        "Value": "EL GUETTAR"
+        "NameAr": "القطار",
+        "Value": "EL GUETTAR",
+        "PostalCode": "2150",
+        "Latitude": 34.3333,
+        "Longitude": 9.1167
       },
       {
         "Name": "EL KSAR",
-        "Value": "EL KSAR"
+        "NameAr": "القصر",
+        "Value": "EL KSAR",
+        "PostalCode": "2111",
+        "Latitude": 34.4167,
+        "Longitude": 8.8000
       },
       {
         "Name": "EL MDHILLA",
-        "Value": "EL MDHILLA"
+        "NameAr": "المظيلة",
+        "Value": "EL MDHILLA",
+        "PostalCode": "2132",
+        "Latitude": 34.4000,
+        "Longitude": 9.0333
       },
       {
         "Name": "SNED",
-        "Value": "SNED"
+        "NameAr": "السند",
+        "Value": "SNED",
+        "PostalCode": "2110",
+        "Latitude": 34.4667,
+        "Longitude": 9.2000
       },
       {
         "Name": "MOULARES",
-        "Value": "MOULARES"
+        "NameAr": "أم العرائس",
+        "Value": "MOULARES",
+        "PostalCode": "2160",
+        "Latitude": 34.4667,
+        "Longitude": 8.2667
       },
       {
         "Name": "REDEYEF",
-        "Value": "REDEYEF"
+        "NameAr": "الرديف",
+        "Value": "REDEYEF",
+        "PostalCode": "2120",
+        "Latitude": 34.3833,
+        "Longitude": 8.1667
       },
       {
         "Name": "SIDI AICH",
-        "Value": "SIDI AICH"
+        "NameAr": "سيدي عيش",
+        "Value": "SIDI AICH",
+        "PostalCode": "2141",
+        "Latitude": 34.7833,
+        "Longitude": 8.9333
       },
       {
         "Name": "GAFSA SUD",
-        "Value": "GAFSA SUD"
+        "NameAr": "قفصة الجنوبية",
+        "Value": "GAFSA SUD",
+        "PostalCode": "2100",
+        "Latitude": 34.4250,
+        "Longitude": 8.7842
       },
       {
         "Name": "METLAOUI",
-        "Value": "METLAOUI"
+        "NameAr": "المتلوي",
+        "Value": "METLAOUI",
+        "PostalCode": "2130",
+        "Latitude": 34.3333,
+        "Longitude": 8.4000
       },
       {
         "Name": "GAFSA NORD",
-        "Value": "GAFSA NORD"
+        "NameAr": "قفصة الشمالية",
+        "Value": "GAFSA NORD",
+        "PostalCode": "2100",
+        "Latitude": 34.4250,
+        "Longitude": 8.7842
       }
     ]
   },
   {
     "Name": "JENDOUBA",
+    "NameAr": "جندوبة",
     "Value": "JN",
     "Delegations": [
       {
         "Name": "FERNANA",
-        "Value": "FERNANA"
+        "NameAr": "فرنانة",
+        "Value": "FERNANA",
+        "PostalCode": "8140",
+        "Latitude": 36.6500,
+        "Longitude": 8.6833
       },
       {
         "Name": "GHARDIMAOU",
-        "Value": "GHARDIMAOU"
+        "NameAr": "غار الدماء",
+        "Value": "GHARDIMAOU",
+        "PostalCode": "8160",
+        "Latitude": 36.4500,
+        "Longitude": 8.4333
       },
       {
         "Name": "TABARKA",
-        "Value": "TABARKA"
+        "NameAr": "طبرقة",
+        "Value": "TABARKA",
+        "PostalCode": "8110",
+        "Latitude": 36.9544,
+        "Longitude": 8.7581
       },
       {
         "Name": "JENDOUBA",
-        "Value": "JENDOUBA"
+        "NameAr": "جندوبة",
+        "Value": "JENDOUBA",
+        "PostalCode": "8100",
+        "Latitude": 36.5011,
+        "Longitude": 8.7808
       },
       {
         "Name": "JENDOUBA NORD",
-        "Value": "JENDOUBA NORD"
+        "NameAr": "جندوبة الشمالية",
+        "Value": "JENDOUBA NORD",
+        "PostalCode": "8100",
+        "Latitude": 36.5011,
+        "Longitude": 8.7808
       },
       {
         "Name": "AIN DRAHAM",
-        "Value": "AIN DRAHAM"
+        "NameAr": "عين دراهم",
+        "Value": "AIN DRAHAM",
+        "PostalCode": "8130",
+        "Latitude": 36.7792,
+        "Longitude": 8.6925
       },
       {
         "Name": "OUED MLIZ",
-        "Value": "OUED MLIZ"
+        "NameAr": "وادي مليز",
+        "Value": "OUED MLIZ",
+        "PostalCode": "8170",
+        "Latitude": 36.4667,
+        "Longitude": 8.5667
       },
       {
         "Name": "BOU SALEM",
-        "Value": "BOU SALEM"
+        "NameAr": "بوسالم",
+        "Value": "BOU SALEM",
+        "PostalCode": "8170",
+        "Latitude": 36.6167,
+        "Longitude": 8.9667
       },
       {
         "Name": "BALTA BOU AOUENE",
-        "Value": "BALTA BOU AOUENE"
+        "NameAr": "بلطة بوعوان",
+        "Value": "BALTA BOU AOUENE",
+        "PostalCode": "8185",
+        "Latitude": 36.5500,
+        "Longitude": 9.0833
       }
     ]
   },
   {
     "Name": "KAIROUAN",
+    "NameAr": "القيروان",
     "Value": "KR",
     "Delegations": [
       {
         "Name": "SBIKHA",
-        "Value": "SBIKHA"
+        "NameAr": "السبيخة",
+        "Value": "SBIKHA",
+        "PostalCode": "3140",
+        "Latitude": 35.9333,
+        "Longitude": 9.7833
       },
       {
         "Name": "KAIROUAN SUD",
-        "Value": "KAIROUAN SUD"
+        "NameAr": "القيروان الجنوبية",
+        "Value": "KAIROUAN SUD",
+        "PostalCode": "3100",
+        "Latitude": 35.6711,
+        "Longitude": 10.0972
       },
       {
         "Name": "OUESLATIA",
-        "Value": "OUESLATIA"
+        "NameAr": "الوسلاتية",
+        "Value": "OUESLATIA",
+        "PostalCode": "3120",
+        "Latitude": 35.8500,
+        "Longitude": 9.5833
       },
       {
         "Name": "NASRALLAH",
-        "Value": "NASRALLAH"
+        "NameAr": "نصر الله",
+        "Value": "NASRALLAH",
+        "PostalCode": "3150",
+        "Latitude": 35.3000,
+        "Longitude": 9.6000
       },
       {
         "Name": "KAIROUAN NORD",
-        "Value": "KAIROUAN NORD"
+        "NameAr": "القيروان الشمالية",
+        "Value": "KAIROUAN NORD",
+        "PostalCode": "3100",
+        "Latitude": 35.6711,
+        "Longitude": 10.0972
       },
       {
         "Name": "EL ALA",
-        "Value": "EL ALA"
+        "NameAr": "العلا",
+        "Value": "EL ALA",
+        "PostalCode": "3160",
+        "Latitude": 35.6167,
+        "Longitude": 9.5667
       },
       {
         "Name": "HAJEB EL AYOUN",
-        "Value": "HAJEB EL AYOUN"
+        "NameAr": "حاجب العيون",
+        "Value": "HAJEB EL AYOUN",
+        "PostalCode": "3164",
+        "Latitude": 35.3833,
+        "Longitude": 9.5167
       },
       {
         "Name": "CHEBIKA",
-        "Value": "CHEBIKA"
+        "NameAr": "الشبيكة",
+        "Value": "CHEBIKA",
+        "PostalCode": "3123",
+        "Latitude": 35.6667,
+        "Longitude": 9.8333
       },
       {
         "Name": "HAFFOUZ",
-        "Value": "HAFFOUZ"
+        "NameAr": "حفوز",
+        "Value": "HAFFOUZ",
+        "PostalCode": "3130",
+        "Latitude": 35.6333,
+        "Longitude": 9.6833
       },
       {
         "Name": "CHERARDA",
-        "Value": "CHERARDA"
+        "NameAr": "الشراردة",
+        "Value": "CHERARDA",
+        "PostalCode": "3172",
+        "Latitude": 35.4560,
+        "Longitude": 9.4220
       },
       {
         "Name": "BOU HAJLA",
-        "Value": "BOU HAJLA"
+        "NameAr": "بوحجلة",
+        "Value": "BOU HAJLA",
+        "PostalCode": "3180",
+        "Latitude": 35.3167,
+        "Longitude": 10.0833
       }
     ]
   },
   {
     "Name": "KASSERINE",
+    "NameAr": "القصرين",
     "Value": "KS",
     "Delegations": [
       {
         "Name": "HAIDRA",
-        "Value": "HAIDRA"
+        "NameAr": "حيدرة",
+        "Value": "HAIDRA",
+        "PostalCode": "1250",
+        "Latitude": 35.5667,
+        "Longitude": 8.4833
       },
       {
         "Name": "SBEITLA",
-        "Value": "SBEITLA"
+        "NameAr": "سبيطلة",
+        "Value": "SBEITLA",
+        "PostalCode": "1250",
+        "Latitude": 35.2333,
+        "Longitude": 9.1167
       },
       {
         "Name": "MEJEL BEL ABBES",
-        "Value": "MEJEL BEL ABBES"
+        "NameAr": "ماجل بلعباس",
+        "Value": "MEJEL BEL ABBES",
+        "PostalCode": "1270",
+        "Latitude": 34.9667,
+        "Longitude": 8.9667
       },
       {
         "Name": "KASSERINE NORD",
-        "Value": "KASSERINE NORD"
+        "NameAr": "القصرين الشمالية",
+        "Value": "KASSERINE NORD",
+        "PostalCode": "1200",
+        "Latitude": 35.1675,
+        "Longitude": 8.8367
       },
       {
         "Name": "EL AYOUN",
-        "Value": "EL AYOUN"
+        "NameAr": "العيون",
+        "Value": "EL AYOUN",
+        "PostalCode": "1260",
+        "Latitude": 35.3667,
+        "Longitude": 8.6833
       },
       {
         "Name": "EZZOUHOUR",
-        "Value": "EZZOUHOUR"
+        "NameAr": "الزهور",
+        "Value": "EZZOUHOUR",
+        "PostalCode": "1200",
+        "Latitude": 35.1675,
+        "Longitude": 8.8367
       },
       {
         "Name": "FERIANA",
-        "Value": "FERIANA"
+        "NameAr": "فريانة",
+        "Value": "FERIANA",
+        "PostalCode": "1240",
+        "Latitude": 34.9500,
+        "Longitude": 8.5833
       },
       {
         "Name": "FOUSSANA",
-        "Value": "FOUSSANA"
+        "NameAr": "فوسانة",
+        "Value": "FOUSSANA",
+        "PostalCode": "1230",
+        "Latitude": 35.0833,
+        "Longitude": 8.7000
       },
       {
         "Name": "HASSI EL FRID",
-        "Value": "HASSI EL FRID"
+        "NameAr": "حاسي الفريد",
+        "Value": "HASSI EL FRID",
+        "PostalCode": "1220",
+        "Latitude": 34.8667,
+        "Longitude": 9.0333
       },
       {
         "Name": "JEDILIANE",
-        "Value": "JEDILIANE"
+        "NameAr": "جدليان",
+        "Value": "JEDILIANE",
+        "PostalCode": "1280",
+        "Latitude": 35.4667,
+        "Longitude": 9.1833
       },
       {
         "Name": "KASSERINE SUD",
-        "Value": "KASSERINE SUD"
+        "NameAr": "القصرين الجنوبية",
+        "Value": "KASSERINE SUD",
+        "PostalCode": "1200",
+        "Latitude": 35.1675,
+        "Longitude": 8.8367
       },
       {
         "Name": "SBIBA",
-        "Value": "SBIBA"
+        "NameAr": "سبيبة",
+        "Value": "SBIBA",
+        "PostalCode": "1274",
+        "Latitude": 35.5500,
+        "Longitude": 9.0667
       },
       {
         "Name": "THALA",
-        "Value": "THALA"
+        "NameAr": "تالة",
+        "Value": "THALA",
+        "PostalCode": "1210",
+        "Latitude": 35.5667,
+        "Longitude": 8.6667
       }
     ]
   },
   {
     "Name": "KEBILI",
+    "NameAr": "قبلي",
     "Value": "KB",
     "Delegations": [
       {
         "Name": "SOUK EL AHAD",
-        "Value": "SOUK EL AHAD"
+        "NameAr": "سوق الأحد",
+        "Value": "SOUK EL AHAD",
+        "PostalCode": "4260",
+        "Latitude": 33.8333,
+        "Longitude": 8.9167
       },
       {
         "Name": "KEBILI SUD",
-        "Value": "KEBILI SUD"
+        "NameAr": "قبلي الجنوبية",
+        "Value": "KEBILI SUD",
+        "PostalCode": "4200",
+        "Latitude": 33.7050,
+        "Longitude": 8.9692
       },
       {
         "Name": "KEBILI NORD",
-        "Value": "KEBILI NORD"
+        "NameAr": "قبلي الشمالية",
+        "Value": "KEBILI NORD",
+        "PostalCode": "4200",
+        "Latitude": 33.7050,
+        "Longitude": 8.9692
       },
       {
         "Name": "DOUZ",
-        "Value": "DOUZ"
+        "NameAr": "دوز",
+        "Value": "DOUZ",
+        "PostalCode": "4260",
+        "Latitude": 33.4500,
+        "Longitude": 9.0167
       },
       {
         "Name": "EL FAOUAR",
-        "Value": "EL FAOUAR"
+        "NameAr": "الفوار",
+        "Value": "EL FAOUAR",
+        "PostalCode": "4250",
+        "Latitude": 33.2667,
+        "Longitude": 8.6667
       }
     ]
   },
   {
     "Name": "KEF",
+    "NameAr": "الكاف",
     "Value": "KF",
     "Delegations": [
       {
         "Name": "TAJEROUINE",
-        "Value": "TAJEROUINE"
+        "NameAr": "تاجروين",
+        "Value": "TAJEROUINE",
+        "PostalCode": "7240",
+        "Latitude": 35.8667,
+        "Longitude": 8.7000
       },
       {
         "Name": "TOUIREF",
-        "Value": "TOUIREF"
+        "NameAr": "الطويرف",
+        "Value": "TOUIREF",
+        "PostalCode": "7216",
+        "Latitude": 36.4500,
+        "Longitude": 8.5833
       },
       {
         "Name": "NEBEUR",
-        "Value": "NEBEUR"
+        "NameAr": "نبر",
+        "Value": "NEBEUR",
+        "PostalCode": "7260",
+        "Latitude": 36.3667,
+        "Longitude": 8.7333
       },
       {
         "Name": "SAKIET SIDI YOUSSEF",
-        "Value": "SAKIET SIDI YOUSSEF"
+        "NameAr": "ساقية سيدي يوسف",
+        "Value": "SAKIET SIDI YOUSSEF",
+        "PostalCode": "7250",
+        "Latitude": 36.3833,
+        "Longitude": 8.3667
       },
       {
         "Name": "LE SERS",
-        "Value": "LE SERS"
+        "NameAr": "السرس",
+        "Value": "LE SERS",
+        "PostalCode": "7270",
+        "Latitude": 36.0833,
+        "Longitude": 9.0167
       },
       {
         "Name": "EL KSOUR",
-        "Value": "EL KSOUR"
+        "NameAr": "القصور",
+        "Value": "EL KSOUR",
+        "PostalCode": "7280",
+        "Latitude": 35.8667,
+        "Longitude": 9.1000
       },
       {
         "Name": "LE KEF EST",
-        "Value": "LE KEF EST"
+        "NameAr": "الكاف الشرقية",
+        "Value": "LE KEF EST",
+        "PostalCode": "7100",
+        "Latitude": 36.1742,
+        "Longitude": 8.7042
       },
       {
         "Name": "DAHMANI",
-        "Value": "DAHMANI"
+        "NameAr": "الدهماني",
+        "Value": "DAHMANI",
+        "PostalCode": "7230",
+        "Latitude": 35.9333,
+        "Longitude": 8.8167
       },
       {
         "Name": "KALAAT SINANE",
-        "Value": "KALAAT SINANE"
+        "NameAr": "قلعة سنان",
+        "Value": "KALAAT SINANE",
+        "PostalCode": "7220",
+        "Latitude": 35.9333,
+        "Longitude": 8.5333
       },
       {
         "Name": "JERISSA",
-        "Value": "JERISSA"
+        "NameAr": "الجريصة",
+        "Value": "JERISSA",
+        "PostalCode": "7210",
+        "Latitude": 35.8333,
+        "Longitude": 8.6333
       },
       {
         "Name": "KALAA EL KHASBA",
-        "Value": "KALAA EL KHASBA"
+        "NameAr": "القلعة الخصباء",
+        "Value": "KALAA EL KHASBA",
+        "PostalCode": "7212",
+        "Latitude": 35.6500,
+        "Longitude": 8.4333
       },
       {
         "Name": "LE KEF OUEST",
-        "Value": "LE KEF OUEST"
+        "NameAr": "الكاف الغربية",
+        "Value": "LE KEF OUEST",
+        "PostalCode": "7100",
+        "Latitude": 36.1742,
+        "Longitude": 8.7042
       }
     ]
   },
   {
     "Name": "MAHDIA",
+    "NameAr": "المهدية",
     "Value": "MA",
     "Delegations": [
       {
         "Name": "MELLOULECH",
-        "Value": "MELLOULECH"
+        "NameAr": "ملولش",
+        "Value": "MELLOULECH",
+        "PostalCode": "5140",
+        "Latitude": 35.2000,
+        "Longitude": 10.7167
       },
       {
         "Name": "SIDI ALOUENE",
-        "Value": "SIDI ALOUENE"
+        "NameAr": "سيدي علوان",
+        "Value": "SIDI ALOUENE",
+        "PostalCode": "5114",
+        "Latitude": 35.3833,
+        "Longitude": 10.8000
       },
       {
         "Name": "MAHDIA",
-        "Value": "MAHDIA"
+        "NameAr": "المهدية",
+        "Value": "MAHDIA",
+        "PostalCode": "5100",
+        "Latitude": 35.5047,
+        "Longitude": 11.0622
       },
       {
         "Name": "SOUASSI",
-        "Value": "SOUASSI"
+        "NameAr": "السواسي",
+        "Value": "SOUASSI",
+        "PostalCode": "5140",
+        "Latitude": 35.3333,
+        "Longitude": 10.4833
       },
       {
         "Name": "OULED CHAMAKH",
-        "Value": "OULED CHAMAKH"
+        "NameAr": "أولاد الشامخ",
+        "Value": "OULED CHAMAKH",
+        "PostalCode": "5151",
+        "Latitude": 35.1500,
+        "Longitude": 10.4333
       },
       {
         "Name": "BOU MERDES",
-        "Value": "BOU MERDES"
+        "NameAr": "بومرداس",
+        "Value": "BOU MERDES",
+        "PostalCode": "5110",
+        "Latitude": 35.6167,
+        "Longitude": 10.7333
       },
       {
         "Name": "CHORBANE",
-        "Value": "CHORBANE"
+        "NameAr": "شربان",
+        "Value": "CHORBANE",
+        "PostalCode": "5130",
+        "Latitude": 35.2167,
+        "Longitude": 10.4000
       },
       {
         "Name": "KSOUR ESSAF",
-        "Value": "KSOUR ESSAF"
+        "NameAr": "قصور الساف",
+        "Value": "KSOUR ESSAF",
+        "PostalCode": "5180",
+        "Latitude": 35.4333,
+        "Longitude": 10.9667
       },
       {
         "Name": "HBIRA",
-        "Value": "HBIRA"
+        "NameAr": "هبيرة",
+        "Value": "HBIRA",
+        "PostalCode": "5152",
+        "Latitude": 35.1000,
+        "Longitude": 10.2000
       },
       {
         "Name": "LA CHEBBA",
-        "Value": "LA CHEBBA"
+        "NameAr": "الشابة",
+        "Value": "LA CHEBBA",
+        "PostalCode": "5170",
+        "Latitude": 35.2333,
+        "Longitude": 11.1167
       },
       {
         "Name": "EL JEM",
-        "Value": "EL JEM"
+        "NameAr": "الجم",
+        "Value": "EL JEM",
+        "PostalCode": "5120",
+        "Latitude": 35.3000,
+        "Longitude": 10.7167
       }
     ]
   },
   {
     "Name": "MANOUBA",
+    "NameAr": "منوبة",
     "Value": "MN",
     "Delegations": [
       {
         "Name": "BORJ EL AMRI",
-        "Value": "BORJ EL AMRI"
+        "NameAr": "برج العامري",
+        "Value": "BORJ EL AMRI",
+        "PostalCode": "1142",
+        "Latitude": 36.7333,
+        "Longitude": 9.9000
       },
       {
         "Name": "JEDAIDA",
-        "Value": "JEDAIDA"
+        "NameAr": "الجديدة",
+        "Value": "JEDAIDA",
+        "PostalCode": "1124",
+        "Latitude": 36.8167,
+        "Longitude": 9.9167
       },
       {
         "Name": "OUED ELLIL",
-        "Value": "OUED ELLIL"
+        "NameAr": "وادي الليل",
+        "Value": "OUED ELLIL",
+        "PostalCode": "2021",
+        "Latitude": 36.8333,
+        "Longitude": 10.0500
       },
       {
         "Name": "TEBOURBA",
-        "Value": "TEBOURBA"
+        "NameAr": "طبربة",
+        "Value": "TEBOURBA",
+        "PostalCode": "1130",
+        "Latitude": 36.8333,
+        "Longitude": 9.8333
       },
       {
         "Name": "EL BATTAN",
-        "Value": "EL BATTAN"
+        "NameAr": "البطان",
+        "Value": "EL BATTAN",
+        "PostalCode": "1112",
+        "Latitude": 36.8000,
+        "Longitude": 9.8333
       },
       {
         "Name": "MANNOUBA",
-        "Value": "MANNOUBA"
+        "NameAr": "منوبة",
+        "Value": "MANNOUBA",
+        "PostalCode": "2010",
+        "Latitude": 36.8117,
+        "Longitude": 10.1000
       },
       {
         "Name": "MORNAGUIA",
-        "Value": "MORNAGUIA"
+        "NameAr": "المرناقية",
+        "Value": "MORNAGUIA",
+        "PostalCode": "1110",
+        "Latitude": 36.7167,
+        "Longitude": 10.0167
       },
       {
         "Name": "DOUAR HICHER",
-        "Value": "DOUAR HICHER"
+        "NameAr": "دوار هيشر",
+        "Value": "DOUAR HICHER",
+        "PostalCode": "2086",
+        "Latitude": 36.8333,
+        "Longitude": 10.0667
       }
     ]
   },
   {
     "Name": "MEDENINE",
+    "NameAr": "مدنين",
     "Value": "MD",
     "Delegations": [
       {
         "Name": "HOUMET ESSOUK",
-        "Value": "HOUMET ESSOUK"
+        "NameAr": "حومة السوق",
+        "Value": "HOUMET ESSOUK",
+        "PostalCode": "4180",
+        "Latitude": 33.8750,
+        "Longitude": 10.8589
       },
       {
         "Name": "MEDENINE SUD",
-        "Value": "MEDENINE SUD"
+        "NameAr": "مدنين الجنوبية",
+        "Value": "MEDENINE SUD",
+        "PostalCode": "4100",
+        "Latitude": 33.3550,
+        "Longitude": 10.5053
       },
       {
         "Name": "BENI KHEDACHE",
-        "Value": "BENI KHEDACHE"
+        "NameAr": "بني خداش",
+        "Value": "BENI KHEDACHE",
+        "PostalCode": "4110",
+        "Latitude": 33.2500,
+        "Longitude": 10.2000
       },
       {
         "Name": "SIDI MAKHLOUF",
-        "Value": "SIDI MAKHLOUF"
+        "NameAr": "سيدي مخلوف",
+        "Value": "SIDI MAKHLOUF",
+        "PostalCode": "4150",
+        "Latitude": 33.5667,
+        "Longitude": 10.1833
       },
       {
         "Name": "MIDOUN",
-        "Value": "MIDOUN"
+        "NameAr": "ميدون",
+        "Value": "MIDOUN",
+        "PostalCode": "4116",
+        "Latitude": 33.8061,
+        "Longitude": 10.9694
       },
       {
         "Name": "ZARZIS",
-        "Value": "ZARZIS"
+        "NameAr": "جرجيس",
+        "Value": "ZARZIS",
+        "PostalCode": "4170",
+        "Latitude": 33.5039,
+        "Longitude": 11.1125
       },
       {
         "Name": "MEDENINE NORD",
-        "Value": "MEDENINE NORD"
+        "NameAr": "مدنين الشمالية",
+        "Value": "MEDENINE NORD",
+        "PostalCode": "4100",
+        "Latitude": 33.3550,
+        "Longitude": 10.5053
       },
       {
         "Name": "BEN GUERDANE",
-        "Value": "BEN GUERDANE"
+        "NameAr": "بنقردان",
+        "Value": "BEN GUERDANE",
+        "PostalCode": "4160",
+        "Latitude": 33.1378,
+        "Longitude": 11.2161
       },
       {
         "Name": "AJIM",
-        "Value": "AJIM"
+        "NameAr": "أجيم",
+        "Value": "AJIM",
+        "PostalCode": "4135",
+        "Latitude": 33.7217,
+        "Longitude": 10.7486
       }
     ]
   },
   {
     "Name": "MONASTIR",
+    "NameAr": "المنستير",
     "Value": "MS",
     "Delegations": [
       {
         "Name": "SAYADA LAMTA BOU HAJAR",
-        "Value": "SAYADA LAMTA BOU HAJAR"
+        "NameAr": "صيادة لمطة بوحجر",
+        "Value": "SAYADA LAMTA BOU HAJAR",
+        "PostalCode": "5035",
+        "Latitude": 35.6733,
+        "Longitude": 10.9014
       },
       {
         "Name": "KSIBET EL MEDIOUNI",
-        "Value": "KSIBET EL MEDIOUNI"
+        "NameAr": "قصيبة المديوني",
+        "Value": "KSIBET EL MEDIOUNI",
+        "PostalCode": "5031",
+        "Latitude": 35.7167,
+        "Longitude": 10.7667
       },
       {
         "Name": "KSAR HELAL",
-        "Value": "KSAR HELAL"
+        "NameAr": "قصر هلال",
+        "Value": "KSAR HELAL",
+        "PostalCode": "5070",
+        "Latitude": 35.6333,
+        "Longitude": 10.9000
       },
       {
         "Name": "JEMMAL",
-        "Value": "JEMMAL"
+        "NameAr": "جمال",
+        "Value": "JEMMAL",
+        "PostalCode": "5020",
+        "Latitude": 35.6000,
+        "Longitude": 10.7667
       },
       {
         "Name": "SAHLINE",
-        "Value": "SAHLINE"
+        "NameAr": "الساحلين",
+        "Value": "SAHLINE",
+        "PostalCode": "5012",
+        "Latitude": 35.7500,
+        "Longitude": 10.7167
       },
       {
         "Name": "MONASTIR",
-        "Value": "MONASTIR"
+        "NameAr": "المنستير",
+        "Value": "MONASTIR",
+        "PostalCode": "5000",
+        "Latitude": 35.7669,
+        "Longitude": 10.8167
       },
       {
         "Name": "MOKNINE",
-        "Value": "MOKNINE"
+        "NameAr": "المكنين",
+        "Value": "MOKNINE",
+        "PostalCode": "5050",
+        "Latitude": 35.6333,
+        "Longitude": 10.9667
       },
       {
         "Name": "OUERDANINE",
-        "Value": "OUERDANINE"
+        "NameAr": "الوردانين",
+        "Value": "OUERDANINE",
+        "PostalCode": "5010",
+        "Latitude": 35.7167,
+        "Longitude": 10.6667
       },
       {
         "Name": "TEBOULBA",
-        "Value": "TEBOULBA"
+        "NameAr": "طبلبة",
+        "Value": "TEBOULBA",
+        "PostalCode": "5080",
+        "Latitude": 35.6333,
+        "Longitude": 11.0333
       },
       {
         "Name": "ZERAMDINE",
-        "Value": "ZERAMDINE"
+        "NameAr": "زرمدين",
+        "Value": "ZERAMDINE",
+        "PostalCode": "5040",
+        "Latitude": 35.5833,
+        "Longitude": 10.7167
       },
       {
         "Name": "BEKALTA",
-        "Value": "BEKALTA"
+        "NameAr": "البقالطة",
+        "Value": "BEKALTA",
+        "PostalCode": "5090",
+        "Latitude": 35.6167,
+        "Longitude": 11.0333
       },
       {
         "Name": "BEMBLA",
-        "Value": "BEMBLA"
+        "NameAr": "بنبلة",
+        "Value": "BEMBLA",
+        "PostalCode": "5021",
+        "Latitude": 35.7000,
+        "Longitude": 10.7833
       },
       {
         "Name": "BENI HASSEN",
-        "Value": "BENI HASSEN"
+        "NameAr": "بني حسان",
+        "Value": "BENI HASSEN",
+        "PostalCode": "5014",
+        "Latitude": 35.5667,
+        "Longitude": 10.5833
       }
     ]
   },
   {
     "Name": "NABEUL",
+    "NameAr": "نابل",
     "Value": "NB",
     "Delegations": [
       {
         "Name": "KORBA",
-        "Value": "KORBA"
+        "NameAr": "قربة",
+        "Value": "KORBA",
+        "PostalCode": "8070",
+        "Latitude": 36.5667,
+        "Longitude": 10.8500
       },
       {
         "Name": "SOLIMAN",
-        "Value": "SOLIMAN"
+        "NameAr": "سليمان",
+        "Value": "SOLIMAN",
+        "PostalCode": "8020",
+        "Latitude": 36.7000,
+        "Longitude": 10.4833
       },
       {
         "Name": "TAKELSA",
-        "Value": "TAKELSA"
+        "NameAr": "تاكلسة",
+        "Value": "TAKELSA",
+        "PostalCode": "8031",
+        "Latitude": 36.7833,
+        "Longitude": 10.6333
       },
       {
         "Name": "MENZEL BOUZELFA",
-        "Value": "MENZEL BOUZELFA"
+        "NameAr": "منزل بوزلفة",
+        "Value": "MENZEL BOUZELFA",
+        "PostalCode": "8010",
+        "Latitude": 36.6833,
+        "Longitude": 10.5833
       },
       {
         "Name": "MENZEL TEMIME",
-        "Value": "MENZEL TEMIME"
+        "NameAr": "منزل تميم",
+        "Value": "MENZEL TEMIME",
+        "PostalCode": "8080",
+        "Latitude": 36.7833,
+        "Longitude": 10.9833
       },
       {
         "Name": "NABEUL",
-        "Value": "NABEUL"
+        "NameAr": "نابل",
+        "Value": "NABEUL",
+        "PostalCode": "8000",
+        "Latitude": 36.4561,
+        "Longitude": 10.7375
       },
       {
         "Name": "BENI KHIAR",
-        "Value": "BENI KHIAR"
+        "NameAr": "بني خيار",
+        "Value": "BENI KHIAR",
+        "PostalCode": "8060",
+        "Latitude": 36.4667,
+        "Longitude": 10.7833
       },
       {
         "Name": "BENI KHALLED",
-        "Value": "BENI KHALLED"
+        "NameAr": "بني خلاد",
+        "Value": "BENI KHALLED",
+        "PostalCode": "8022",
+        "Latitude": 36.6500,
+        "Longitude": 10.6000
       },
       {
         "Name": "HAMMAMET",
-        "Value": "HAMMAMET"
+        "NameAr": "الحمامات",
+        "Value": "HAMMAMET",
+        "PostalCode": "8050",
+        "Latitude": 36.4000,
+        "Longitude": 10.6167
       },
       {
         "Name": "EL HAOUARIA",
-        "Value": "EL HAOUARIA"
+        "NameAr": "الهوارية",
+        "Value": "EL HAOUARIA",
+        "PostalCode": "8045",
+        "Latitude": 37.0500,
+        "Longitude": 11.0167
       },
       {
         "Name": "KELIBIA",
-        "Value": "KELIBIA"
+        "NameAr": "قليبية",
+        "Value": "KELIBIA",
+        "PostalCode": "8090",
+        "Latitude": 36.8467,
+        "Longitude": 11.0961
       },
       {
         "Name": "GROMBALIA",
-        "Value": "GROMBALIA"
+        "NameAr": "قرمبالية",
+        "Value": "GROMBALIA",
+        "PostalCode": "8030",
+        "Latitude": 36.6000,
+        "Longitude": 10.5000
       },
       {
         "Name": "EL MIDA",
-        "Value": "EL MIDA"
+        "NameAr": "الميدة",
+        "Value": "EL MIDA",
+        "PostalCode": "8042",
+        "Latitude": 36.8833,
+        "Longitude": 10.9167
       },
       {
         "Name": "BOU ARGOUB",
-        "Value": "BOU ARGOUB"
+        "NameAr": "بوعرقوب",
+        "Value": "BOU ARGOUB",
+        "PostalCode": "8040",
+        "Latitude": 36.5500,
+        "Longitude": 10.5500
       },
       {
         "Name": "DAR CHAABANE ELFEHRI",
-        "Value": "DAR CHAABANE ELFEHRI"
+        "NameAr": "دار شعبان الفهري",
+        "Value": "DAR CHAABANE ELFEHRI",
+        "PostalCode": "8011",
+        "Latitude": 36.4667,
+        "Longitude": 10.7500
       },
       {
         "Name": "HAMMAM EL GHEZAZ",
-        "Value": "HAMMAM EL GHEZAZ"
+        "NameAr": "حمام الأغزاز",
+        "Value": "HAMMAM EL GHEZAZ",
+        "PostalCode": "8056",
+        "Latitude": 36.9333,
+        "Longitude": 11.1333
       }
     ]
   },
   {
     "Name": "SFAX",
+    "NameAr": "صفاقس",
     "Value": "SF",
     "Delegations": [
       {
         "Name": "EL HENCHA",
-        "Value": "EL HENCHA"
+        "NameAr": "الحنشة",
+        "Value": "EL HENCHA",
+        "PostalCode": "3040",
+        "Latitude": 35.2333,
+        "Longitude": 10.3833
       },
       {
         "Name": "ESSKHIRA",
-        "Value": "ESSKHIRA"
+        "NameAr": "الصخيرة",
+        "Value": "ESSKHIRA",
+        "PostalCode": "3050",
+        "Latitude": 34.2833,
+        "Longitude": 10.0667
       },
       {
         "Name": "GHRAIBA",
-        "Value": "GHRAIBA"
+        "NameAr": "الغريبة",
+        "Value": "GHRAIBA",
+        "PostalCode": "3052",
+        "Latitude": 34.5333,
+        "Longitude": 10.0333
       },
       {
         "Name": "EL AMRA",
-        "Value": "EL AMRA"
+        "NameAr": "العامرة",
+        "Value": "EL AMRA",
+        "PostalCode": "3030",
+        "Latitude": 34.9333,
+        "Longitude": 10.5500
       },
       {
         "Name": "BIR ALI BEN KHELIFA",
-        "Value": "BIR ALI BEN KHELIFA"
+        "NameAr": "بئر علي بن خليفة",
+        "Value": "BIR ALI BEN KHELIFA",
+        "PostalCode": "3070",
+        "Latitude": 34.9000,
+        "Longitude": 10.0833
       },
       {
         "Name": "AGAREB",
-        "Value": "AGAREB"
+        "NameAr": "عقارب",
+        "Value": "AGAREB",
+        "PostalCode": "3030",
+        "Latitude": 34.7500,
+        "Longitude": 10.5000
       },
       {
         "Name": "SFAX VILLE",
-        "Value": "SFAX VILLE"
+        "NameAr": "صفاقس المدينة",
+        "Value": "SFAX VILLE",
+        "PostalCode": "3000",
+        "Latitude": 34.7400,
+        "Longitude": 10.7600
       },
       {
         "Name": "SAKIET EDDAIER",
-        "Value": "SAKIET EDDAIER"
+        "NameAr": "ساقية الداير",
+        "Value": "SAKIET EDDAIER",
+        "PostalCode": "3011",
+        "Latitude": 34.8167,
+        "Longitude": 10.7833
       },
       {
         "Name": "MAHRAS",
-        "Value": "MAHRAS"
+        "NameAr": "المحرس",
+        "Value": "MAHRAS",
+        "PostalCode": "3060",
+        "Latitude": 34.5333,
+        "Longitude": 10.5000
       },
       {
         "Name": "MENZEL CHAKER",
-        "Value": "MENZEL CHAKER"
+        "NameAr": "منزل شاكر",
+        "Value": "MENZEL CHAKER",
+        "PostalCode": "3020",
+        "Latitude": 34.9833,
+        "Longitude": 10.3667
       },
       {
         "Name": "SFAX EST",
-        "Value": "SFAX EST"
+        "NameAr": "صفاقس الشرقية",
+        "Value": "SFAX EST",
+        "PostalCode": "3000",
+        "Latitude": 34.7400,
+        "Longitude": 10.7600
       },
       {
         "Name": "SFAX SUD",
-        "Value": "SFAX SUD"
+        "NameAr": "صفاقس الجنوبية",
+        "Value": "SFAX SUD",
+        "PostalCode": "3000",
+        "Latitude": 34.7400,
+        "Longitude": 10.7600
       },
       {
         "Name": "JEBENIANA",
-        "Value": "JEBENIANA"
+        "NameAr": "جبنيانة",
+        "Value": "JEBENIANA",
+        "PostalCode": "3080",
+        "Latitude": 35.0333,
+        "Longitude": 10.9000
       },
       {
         "Name": "KERKENAH",
-        "Value": "KERKENAH"
+        "NameAr": "قرقنة",
+        "Value": "KERKENAH",
+        "PostalCode": "3070",
+        "Latitude": 34.7211,
+        "Longitude": 11.1886
       },
       {
         "Name": "SAKIET EZZIT",
-        "Value": "SAKIET EZZIT"
+        "NameAr": "ساقية الزيت",
+        "Value": "SAKIET EZZIT",
+        "PostalCode": "3021",
+        "Latitude": 34.8000,
+        "Longitude": 10.7667
       }
     ]
   },
   {
     "Name": "SIDI BOUZID",
+    "NameAr": "سيدي بوزيد",
     "Value": "SB",
     "Delegations": [
       {
         "Name": "BEN OUN",
-        "Value": "BEN OUN"
+        "NameAr": "بن عون",
+        "Value": "BEN OUN",
+        "PostalCode": "9150",
+        "Latitude": 34.8333,
+        "Longitude": 9.3000
       },
       {
         "Name": "BIR EL HAFFEY",
-        "Value": "BIR EL HAFFEY"
+        "NameAr": "بئر الحفي",
+        "Value": "BIR EL HAFFEY",
+        "PostalCode": "9130",
+        "Latitude": 34.9333,
+        "Longitude": 9.2000
       },
       {
         "Name": "JILMA",
-        "Value": "JILMA"
+        "NameAr": "جلمة",
+        "Value": "JILMA",
+        "PostalCode": "9120",
+        "Latitude": 35.2667,
+        "Longitude": 9.4167
       },
       {
         "Name": "CEBBALA",
-        "Value": "CEBBALA"
+        "NameAr": "السبالة",
+        "Value": "CEBBALA",
+        "PostalCode": "9160",
+        "Latitude": 34.9667,
+        "Longitude": 9.0333
       },
       {
         "Name": "OULED HAFFOUZ",
-        "Value": "OULED HAFFOUZ"
+        "NameAr": "أولاد حفوز",
+        "Value": "OULED HAFFOUZ",
+        "PostalCode": "9110",
+        "Latitude": 35.1167,
+        "Longitude": 9.7500
       },
       {
         "Name": "MEZZOUNA",
-        "Value": "MEZZOUNA"
+        "NameAr": "المزونة",
+        "Value": "MEZZOUNA",
+        "PostalCode": "9140",
+        "Latitude": 34.6000,
+        "Longitude": 9.7833
       },
       {
         "Name": "REGUEB",
-        "Value": "REGUEB"
+        "NameAr": "الرقاب",
+        "Value": "REGUEB",
+        "PostalCode": "9170",
+        "Latitude": 34.8500,
+        "Longitude": 9.7667
       },
       {
         "Name": "SIDI BOUZID OUEST",
-        "Value": "SIDI BOUZID OUEST"
+        "NameAr": "سيدي بوزيد الغربية",
+        "Value": "SIDI BOUZID OUEST",
+        "PostalCode": "9100",
+        "Latitude": 35.0372,
+        "Longitude": 9.4847
       },
       {
         "Name": "SOUK JEDID",
-        "Value": "SOUK JEDID"
+        "NameAr": "السوق الجديد",
+        "Value": "SOUK JEDID",
+        "PostalCode": "9172",
+        "Latitude": 34.8833,
+        "Longitude": 9.6000
       },
       {
         "Name": "SIDI BOUZID EST",
-        "Value": "SIDI BOUZID EST"
+        "NameAr": "سيدي بوزيد الشرقية",
+        "Value": "SIDI BOUZID EST",
+        "PostalCode": "9100",
+        "Latitude": 35.0372,
+        "Longitude": 9.4847
       },
       {
         "Name": "MAKNASSY",
-        "Value": "MAKNASSY"
+        "NameAr": "المكناسي",
+        "Value": "MAKNASSY",
+        "PostalCode": "9140",
+        "Latitude": 34.6000,
+        "Longitude": 9.6000
       },
       {
         "Name": "MENZEL BOUZAIENE",
-        "Value": "MENZEL BOUZAIENE"
+        "NameAr": "منزل بوزيان",
+        "Value": "MENZEL BOUZAIENE",
+        "PostalCode": "9143",
+        "Latitude": 34.7000,
+        "Longitude": 9.3500
       }
     ]
   },
   {
     "Name": "SILIANA",
+    "NameAr": "سليانة",
     "Value": "SL",
     "Delegations": [
       {
         "Name": "SILIANA SUD",
-        "Value": "SILIANA SUD"
+        "NameAr": "سليانة الجنوبية",
+        "Value": "SILIANA SUD",
+        "PostalCode": "6100",
+        "Latitude": 36.0833,
+        "Longitude": 9.3667
       },
       {
         "Name": "SIDI BOU ROUIS",
-        "Value": "SIDI BOU ROUIS"
+        "NameAr": "سيدي بورويس",
+        "Value": "SIDI BOU ROUIS",
+        "PostalCode": "6130",
+        "Latitude": 36.2333,
+        "Longitude": 9.1833
       },
       {
         "Name": "SILIANA NORD",
-        "Value": "SILIANA NORD"
+        "NameAr": "سليانة الشمالية",
+        "Value": "SILIANA NORD",
+        "PostalCode": "6100",
+        "Latitude": 36.0833,
+        "Longitude": 9.3667
       },
       {
         "Name": "GAAFOUR",
-        "Value": "GAAFOUR"
+        "NameAr": "قعفور",
+        "Value": "GAAFOUR",
+        "PostalCode": "6160",
+        "Latitude": 36.3500,
+        "Longitude": 9.1833
       },
       {
         "Name": "KESRA",
-        "Value": "KESRA"
+        "NameAr": "كسرى",
+        "Value": "KESRA",
+        "PostalCode": "6140",
+        "Latitude": 35.8167,
+        "Longitude": 9.3667
       },
       {
         "Name": "LE KRIB",
-        "Value": "LE KRIB"
+        "NameAr": "الكريب",
+        "Value": "LE KRIB",
+        "PostalCode": "6150",
+        "Latitude": 36.2333,
+        "Longitude": 9.0500
       },
       {
         "Name": "BOU ARADA",
-        "Value": "BOU ARADA"
+        "NameAr": "بوعرادة",
+        "Value": "BOU ARADA",
+        "PostalCode": "6170",
+        "Latitude": 36.3500,
+        "Longitude": 9.6167
       },
       {
         "Name": "BARGOU",
-        "Value": "BARGOU"
+        "NameAr": "برقو",
+        "Value": "BARGOU",
+        "PostalCode": "6180",
+        "Latitude": 36.0667,
+        "Longitude": 9.6000
       },
       {
         "Name": "MAKTHAR",
-        "Value": "MAKTHAR"
+        "NameAr": "مكثر",
+        "Value": "MAKTHAR",
+        "PostalCode": "6140",
+        "Latitude": 35.8500,
+        "Longitude": 9.2000
       },
       {
         "Name": "ROHIA",
-        "Value": "ROHIA"
+        "NameAr": "الروحية",
+        "Value": "ROHIA",
+        "PostalCode": "6182",
+        "Latitude": 35.6833,
+        "Longitude": 9.0500
       },
       {
         "Name": "EL AROUSSA",
-        "Value": "EL AROUSSA"
+        "NameAr": "العروسة",
+        "Value": "EL AROUSSA",
+        "PostalCode": "6162",
+        "Latitude": 36.3000,
+        "Longitude": 9.4167
       }
     ]
   },
   {
     "Name": "SOUSSE",
+    "NameAr": "سوسة",
     "Value": "SS",
     "Delegations": [
       {
         "Name": "SIDI BOU ALI",
-        "Value": "SIDI BOU ALI"
+        "NameAr": "سيدي بوعلي",
+        "Value": "SIDI BOU ALI",
+        "PostalCode": "4040",
+        "Latitude": 35.9667,
+        "Longitude": 10.4667
       },
       {
         "Name": "SIDI EL HENI",
-        "Value": "SIDI EL HENI"
+        "NameAr": "سيدي الهاني",
+        "Value": "SIDI EL HENI",
+        "PostalCode": "4051",
+        "Latitude": 35.6167,
+        "Longitude": 10.2833
       },
       {
         "Name": "SOUSSE JAOUHARA",
-        "Value": "SOUSSE JAOUHARA"
+        "NameAr": "سوسة جوهرة",
+        "Value": "SOUSSE JAOUHARA",
+        "PostalCode": "4000",
+        "Latitude": 35.8254,
+        "Longitude": 10.6086
       },
       {
         "Name": "SOUSSE RIADH",
-        "Value": "SOUSSE RIADH"
+        "NameAr": "سوسة الرياض",
+        "Value": "SOUSSE RIADH",
+        "PostalCode": "4023",
+        "Latitude": 35.8000,
+        "Longitude": 10.6167
       },
       {
         "Name": "SOUSSE VILLE",
-        "Value": "SOUSSE VILLE"
+        "NameAr": "سوسة المدينة",
+        "Value": "SOUSSE VILLE",
+        "PostalCode": "4000",
+        "Latitude": 35.8254,
+        "Longitude": 10.6389
       },
       {
         "Name": "BOU FICHA",
-        "Value": "BOU FICHA"
+        "NameAr": "بوفيشة",
+        "Value": "BOU FICHA",
+        "PostalCode": "4010",
+        "Latitude": 36.2833,
+        "Longitude": 10.4000
       },
       {
         "Name": "AKOUDA",
-        "Value": "AKOUDA"
+        "NameAr": "أكودة",
+        "Value": "AKOUDA",
+        "PostalCode": "4022",
+        "Latitude": 35.8833,
+        "Longitude": 10.5667
       },
       {
         "Name": "HAMMAM SOUSSE",
-        "Value": "HAMMAM SOUSSE"
+        "NameAr": "حمام سوسة",
+        "Value": "HAMMAM SOUSSE",
+        "PostalCode": "4011",
+        "Latitude": 35.8667,
+        "Longitude": 10.6000
       },
       {
         "Name": "KALAA ESSGHIRA",
-        "Value": "KALAA ESSGHIRA"
+        "NameAr": "القلعة الصغرى",
+        "Value": "KALAA ESSGHIRA",
+        "PostalCode": "4021",
+        "Latitude": 35.8667,
+        "Longitude": 10.5167
       },
       {
         "Name": "KONDAR",
-        "Value": "KONDAR"
+        "NameAr": "كندار",
+        "Value": "KONDAR",
+        "PostalCode": "4050",
+        "Latitude": 35.9333,
+        "Longitude": 10.3000
       },
       {
         "Name": "MSAKEN",
-        "Value": "MSAKEN"
+        "NameAr": "مساكن",
+        "Value": "MSAKEN",
+        "PostalCode": "4070",
+        "Latitude": 35.7333,
+        "Longitude": 10.5833
       },
       {
         "Name": "ENFIDHA",
-        "Value": "ENFIDHA"
+        "NameAr": "النفيضة",
+        "Value": "ENFIDHA",
+        "PostalCode": "4030",
+        "Latitude": 36.1333,
+        "Longitude": 10.3833
       },
       {
         "Name": "HERGLA",
-        "Value": "HERGLA"
+        "NameAr": "هرقلة",
+        "Value": "HERGLA",
+        "PostalCode": "4012",
+        "Latitude": 36.0333,
+        "Longitude": 10.5167
       },
       {
         "Name": "KALAA EL KEBIRA",
-        "Value": "KALAA EL KEBIRA"
+        "NameAr": "القلعة الكبرى",
+        "Value": "KALAA EL KEBIRA",
+        "PostalCode": "4060",
+        "Latitude": 35.8667,
+        "Longitude": 10.5333
       }
     ]
   },
   {
     "Name": "TATAOUINE",
+    "NameAr": "تطاوين",
     "Value": "TT",
     "Delegations": [
       {
         "Name": "TATAOUINE SUD",
-        "Value": "TATAOUINE SUD"
+        "NameAr": "تطاوين الجنوبية",
+        "Value": "TATAOUINE SUD",
+        "PostalCode": "3200",
+        "Latitude": 32.9297,
+        "Longitude": 10.4514
       },
       {
         "Name": "BIR LAHMAR",
-        "Value": "BIR LAHMAR"
+        "NameAr": "بئر الأحمر",
+        "Value": "BIR LAHMAR",
+        "PostalCode": "3212",
+        "Latitude": 33.1667,
+        "Longitude": 10.4167
       },
       {
         "Name": "DHEHIBA",
-        "Value": "DHEHIBA"
+        "NameAr": "الذهيبة",
+        "Value": "DHEHIBA",
+        "PostalCode": "3253",
+        "Latitude": 32.0000,
+        "Longitude": 10.7000
       },
       {
         "Name": "GHOMRASSEN",
-        "Value": "GHOMRASSEN"
+        "NameAr": "غمراسن",
+        "Value": "GHOMRASSEN",
+        "PostalCode": "3220",
+        "Latitude": 33.0500,
+        "Longitude": 10.3333
       },
       {
         "Name": "TATAOUINE NORD",
-        "Value": "TATAOUINE NORD"
+        "NameAr": "تطاوين الشمالية",
+        "Value": "TATAOUINE NORD",
+        "PostalCode": "3200",
+        "Latitude": 32.9297,
+        "Longitude": 10.4514
       },
       {
         "Name": "REMADA",
-        "Value": "REMADA"
+        "NameAr": "رمادة",
+        "Value": "REMADA",
+        "PostalCode": "3240",
+        "Latitude": 32.3167,
+        "Longitude": 10.3833
       },
       {
         "Name": "SMAR",
-        "Value": "SMAR"
+        "NameAr": "الصمار",
+        "Value": "SMAR",
+        "PostalCode": "3230",
+        "Latitude": 32.8167,
+        "Longitude": 10.7833
       }
     ]
   },
   {
     "Name": "TOZEUR",
+    "NameAr": "توزر",
     "Value": "TZ",
     "Delegations": [
       {
         "Name": "DEGUECHE",
-        "Value": "DEGUECHE"
+        "NameAr": "دقاش",
+        "Value": "DEGUECHE",
+        "PostalCode": "2260",
+        "Latitude": 33.9667,
+        "Longitude": 8.2167
       },
       {
         "Name": "TOZEUR",
-        "Value": "TOZEUR"
+        "NameAr": "توزر",
+        "Value": "TOZEUR",
+        "PostalCode": "2200",
+        "Latitude": 33.9197,
+        "Longitude": 8.1339
       },
       {
         "Name": "HEZOUA",
-        "Value": "HEZOUA"
+        "NameAr": "حزوة",
+        "Value": "HEZOUA",
+        "PostalCode": "2232",
+        "Latitude": 33.8000,
+        "Longitude": 7.7167
       },
       {
         "Name": "NEFTA",
-        "Value": "NEFTA"
+        "NameAr": "نفطة",
+        "Value": "NEFTA",
+        "PostalCode": "2240",
+        "Latitude": 33.8667,
+        "Longitude": 7.8833
       },
       {
         "Name": "TAMEGHZA",
-        "Value": "TAMEGHZA"
+        "NameAr": "تمغزة",
+        "Value": "TAMEGHZA",
+        "PostalCode": "2253",
+        "Latitude": 34.3833,
+        "Longitude": 7.9333
       }
     ]
   },
   {
     "Name": "TUNIS",
+    "NameAr": "تونس",
     "Value": "TN",
     "Delegations": [
       {
         "Name": "EL MENZAH",
-        "Value": "EL MENZAH"
+        "NameAr": "المنزه",
+        "Value": "EL MENZAH",
+        "PostalCode": "1004",
+        "Latitude": 36.8447,
+        "Longitude": 10.1719
       },
       {
         "Name": "EL HRAIRIA",
-        "Value": "EL HRAIRIA"
+        "NameAr": "الحرايرية",
+        "Value": "EL HRAIRIA",
+        "PostalCode": "2042",
+        "Latitude": 36.7833,
+        "Longitude": 10.0833
       },
       {
         "Name": "EL KABBARIA",
-        "Value": "EL KABBARIA"
+        "NameAr": "الكبارية",
+        "Value": "EL KABBARIA",
+        "PostalCode": "2056",
+        "Latitude": 36.7667,
+        "Longitude": 10.1833
       },
       {
         "Name": "EL KRAM",
-        "Value": "EL KRAM"
+        "NameAr": "الكرم",
+        "Value": "EL KRAM",
+        "PostalCode": "2015",
+        "Latitude": 36.8333,
+        "Longitude": 10.3167
       },
       {
         "Name": "BAB SOUIKA",
-        "Value": "BAB SOUIKA"
+        "NameAr": "باب سويقة",
+        "Value": "BAB SOUIKA",
+        "PostalCode": "1006",
+        "Latitude": 36.8047,
+        "Longitude": 10.1692
       },
       {
         "Name": "CARTHAGE",
-        "Value": "CARTHAGE"
+        "NameAr": "قرطاج",
+        "Value": "CARTHAGE",
+        "PostalCode": "2016",
+        "Latitude": 36.8667,
+        "Longitude": 10.3333
       },
       {
         "Name": "CITE EL KHADRA",
-        "Value": "CITE EL KHADRA"
+        "NameAr": "حي الخضراء",
+        "Value": "CITE EL KHADRA",
+        "PostalCode": "1003",
+        "Latitude": 36.8292,
+        "Longitude": 10.1917
       },
       {
         "Name": "BAB BHAR",
-        "Value": "BAB BHAR"
+        "NameAr": "باب بحر",
+        "Value": "BAB BHAR",
+        "PostalCode": "1000",
+        "Latitude": 36.7986,
+        "Longitude": 10.1800
       },
       {
         "Name": "LA MARSA",
-        "Value": "LA MARSA"
+        "NameAr": "المرسى",
+        "Value": "LA MARSA",
+        "PostalCode": "2070",
+        "Latitude": 36.8775,
+        "Longitude": 10.3261
       },
       {
         "Name": "EZZOUHOUR",
-        "Value": "EZZOUHOUR"
+        "NameAr": "الزهور",
+        "Value": "EZZOUHOUR",
+        "PostalCode": "2052",
+        "Latitude": 36.7933,
+        "Longitude": 10.1233
       },
       {
         "Name": "JEBEL JELLOUD",
-        "Value": "JEBEL JELLOUD"
+        "NameAr": "جبل الجلود",
+        "Value": "JEBEL JELLOUD",
+        "PostalCode": "2023",
+        "Latitude": 36.7667,
+        "Longitude": 10.1833
       },
       {
         "Name": "SIDI EL BECHIR",
-        "Value": "SIDI EL BECHIR"
+        "NameAr": "سيدي البشير",
+        "Value": "SIDI EL BECHIR",
+        "PostalCode": "1079",
+        "Latitude": 36.7750,
+        "Longitude": 10.1833
       },
       {
         "Name": "LA GOULETTE",
-        "Value": "LA GOULETTE"
+        "NameAr": "حلق الوادي",
+        "Value": "LA GOULETTE",
+        "PostalCode": "2060",
+        "Latitude": 36.8167,
+        "Longitude": 10.3000
       },
       {
         "Name": "LE BARDO",
-        "Value": "LE BARDO"
+        "NameAr": "باردو",
+        "Value": "LE BARDO",
+        "PostalCode": "2000",
+        "Latitude": 36.8125,
+        "Longitude": 10.1381
       },
       {
         "Name": "EL OMRANE",
-        "Value": "EL OMRANE"
+        "NameAr": "العمران",
+        "Value": "EL OMRANE",
+        "PostalCode": "1005",
+        "Latitude": 36.8167,
+        "Longitude": 10.1667
       },
       {
         "Name": "EL OMRANE SUPERIEUR",
-        "Value": "EL OMRANE SUPERIEUR"
+        "NameAr": "العمران الأعلى",
+        "Value": "EL OMRANE SUPERIEUR",
+        "PostalCode": "2037",
+        "Latitude": 36.8333,
+        "Longitude": 10.1500
       },
       {
         "Name": "EL OUERDIA",
-        "Value": "EL OUERDIA"
+        "NameAr": "الوردية",
+        "Value": "EL OUERDIA",
+        "PostalCode": "1009",
+        "Latitude": 36.7667,
+        "Longitude": 10.1667
       },
       {
         "Name": "ETTAHRIR",
-        "Value": "ETTAHRIR"
+        "NameAr": "التحرير",
+        "Value": "ETTAHRIR",
+        "PostalCode": "2042",
+        "Latitude": 36.8167,
+        "Longitude": 10.1167
       },
       {
         "Name": "SIDI HASSINE",
-        "Value": "SIDI HASSINE"
+        "NameAr": "سيدي حسين",
+        "Value": "SIDI HASSINE",
+        "PostalCode": "2055",
+        "Latitude": 36.7833,
+        "Longitude": 10.0667
       },
       {
         "Name": "ESSIJOUMI",
-        "Value": "ESSIJOUMI"
+        "NameAr": "السيجومي",
+        "Value": "ESSIJOUMI",
+        "PostalCode": "2024",
+        "Latitude": 36.7833,
+        "Longitude": 10.1333
       },
       {
         "Name": "LA MEDINA",
-        "Value": "LA MEDINA"
+        "NameAr": "المدينة",
+        "Value": "LA MEDINA",
+        "PostalCode": "1000",
+        "Latitude": 36.7956,
+        "Longitude": 10.1711
       }
     ]
   },
   {
     "Name": "ZAGHOUAN",
+    "NameAr": "زغوان",
     "Value": "ZG",
     "Delegations": [
       {
         "Name": "ENNADHOUR",
-        "Value": "ENNADHOUR"
+        "NameAr": "الناظور",
+        "Value": "ENNADHOUR",
+        "PostalCode": "1160",
+        "Latitude": 36.2667,
+        "Longitude": 10.0833
       },
       {
         "Name": "EL FAHS",
-        "Value": "EL FAHS"
+        "NameAr": "الفحص",
+        "Value": "EL FAHS",
+        "PostalCode": "1140",
+        "Latitude": 36.3667,
+        "Longitude": 9.9000
       },
       {
         "Name": "BIR MCHERGA",
-        "Value": "BIR MCHERGA"
+        "NameAr": "بئر مشارقة",
+        "Value": "BIR MCHERGA",
+        "PostalCode": "1141",
+        "Latitude": 36.5167,
+        "Longitude": 10.0000
       },
       {
         "Name": "ZAGHOUAN",
-        "Value": "ZAGHOUAN"
+        "NameAr": "زغوان",
+        "Value": "ZAGHOUAN",
+        "PostalCode": "1100",
+        "Latitude": 36.4000,
+        "Longitude": 10.1500
       },
       {
         "Name": "HAMMAM ZRIBA",
-        "Value": "HAMMAM ZRIBA"
+        "NameAr": "حمام الزريبة",
+        "Value": "HAMMAM ZRIBA",
+        "PostalCode": "1152",
+        "Latitude": 36.3000,
+        "Longitude": 10.1667
       },
       {
         "Name": "SAOUEF",
-        "Value": "SAOUEF"
+        "NameAr": "صواف",
+        "Value": "SAOUEF",
+        "PostalCode": "1123",
+        "Latitude": 36.3333,
+        "Longitude": 9.7667
       }
     ]
   }
